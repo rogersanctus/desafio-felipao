@@ -4,11 +4,51 @@
  * [  Nome, [ [Título, [xp mínima, xp máxima]] ]  ]
 **/
 const AvailableHeros = [
-  ["Zé", [["da Manga", [0, 1000]], ["do Acarajé", [500, 2500]], ["do Póti", [0, 4000]], ["da Moita", [0, 5000]]]],
-  ["João", [["do Violão", [2000, 5000]], ["do Pé de Feijão", [2500, 7500]], ["do Boi", [3000, 8000]], ["das Cabras", [8000, 10000]]]],
-  ["Pedim", [["de Tonha", [2500, 4000]], ["de Rosa", [500, 2000]], ["dos Teclados", [7000, 9200]], ["o Fera", [9000, 12000]]]],
-  ["Maria", [["do Acarajé", [500, 5000]], ["das Ropa", [3500, 8500]], ["da Lancha", [1500, 9000]], ["do Peixe", [7000, 15000]]]],
-  ["Rosa", [["da Marmita", [2500, 5000]], ["de Pedim", [2500, 4500]], ["do Baixiií", [7000, 10001]], ["Concurseira", [0, 15000]]]],
+  [
+    "Zé",
+    [
+      ["da Manga", [0, 1000]],
+      ["do Acarajé", [500, 2500]],
+      ["do Póti", [0, 4000]],
+      ["da Moita", [0, 5000]]
+    ]
+  ],
+  [
+    "João",
+    [
+      ["do Violão", [2000, 5000]],
+      ["do Pé de Feijão", [2500, 7500]],
+      ["do Boi", [3000, 8000]],
+      ["das Cabras", [8000, 10000]]
+    ]
+  ],
+  [
+    "Pedim",
+    [
+      ["de Tonha", [2500, 4000]],
+      ["de Rosa", [500, 2000]],
+      ["dos Teclados", [7000, 9200]],
+      ["o Fera", [9000, 12000]]
+    ]
+  ],
+  [
+    "Maria",
+    [
+      ["do Acarajé", [500, 5000]],
+      ["das Ropa", [3500, 8500]],
+      ["da Lancha", [1500, 9000]],
+      ["do Peixe", [7000, 15000]]
+    ]
+  ],
+  [
+    "Rosa",
+    [
+      ["da Marmita", [2500, 5000]],
+      ["de Pedim", [2500, 4500]],
+      ["do Baixiií", [7000, 10001]],
+      ["Concurseira", [0, 15000]]
+    ]
+  ],
 ]
 
 /**
